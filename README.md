@@ -8,7 +8,9 @@ Create a platform that uses data about frecuencies of soil moisture, precipitati
 
 ## Procedures. Step by step
 Step 1: Choosing a region and an enviromental hazard to work on.
+
 Step2: Get all posible datasets that contains dates, natural disasters, location per country, economic decline and distribution of population (concerning sex and age).
+
 Step3: (...)
 
 ## Results
